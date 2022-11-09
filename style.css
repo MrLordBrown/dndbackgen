@@ -1,0 +1,25 @@
+body {
+    background-color: black;
+    text-shadow: -2px -2px 4px orange;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+#container {
+    margin-left: 10vw;
+    width: 80vw;
+    height: 75vh;
+    border: 2px orange solid;
+    overflow: auto;
+}
+
+#app {
+    font-size: 2em;
+    font-family: "The Girl Next Door", cursive;
+    color: white;
+    text-shadow: 2px 2px 4px orange;
+    margin: 1vw;
+}
